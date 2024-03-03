@@ -6,7 +6,7 @@
                                                                                                                         
 # 📱Discord bot developer    
 
-# 🤖**Upcoming project: BTDS Bot***
+# 🤖***Upcoming project: BTDS Bot***
 
 # Hobbies: Chess, Programming, Swimming
 
